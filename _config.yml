@@ -1,0 +1,10 @@
+# Site settings
+title: Jingxiang Ma
+email: mjx@pku.edu.cn
+
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: lm99493900
+github_username:  mwlmjx
+# Build settings
+markdown: kramdown

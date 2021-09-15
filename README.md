@@ -1,2 +1,2 @@
 # mjx.github.io
-This is for use of a academic website
+This is for use of an academic website
